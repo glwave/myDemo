@@ -1,0 +1,13 @@
+<view>
+用户名：<input bindinput='usernameInput'/>
+</view>
+
+<view>
+密码： <input bindinput='userpasswordInput'/>
+</view>
+
+<view>
+<button bindtap="loginBtnClick">
+登录
+</button>
+</view>

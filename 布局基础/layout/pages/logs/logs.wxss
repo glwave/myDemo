@@ -1,0 +1,36 @@
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: rebeccapurple;
+
+    margin-left: 100rpx;
+    margin-top: 100rpx;
+
+    position: relative;
+
+}
+
+
+
+
+.item{
+    width: 150rpx;
+    height: 150rpx;
+    background-color: rosybrown;
+    border: 1px solid #fff;
+}
+
+
+
+.item2{
+    width: 150rpx;
+    height: 150rpx;
+    background-color: rosybrown;
+    border: 1px solid #fff;
+
+    position: absolute;
+
+    left: 50rpx;
+    top: 50rpx;
+}
+
